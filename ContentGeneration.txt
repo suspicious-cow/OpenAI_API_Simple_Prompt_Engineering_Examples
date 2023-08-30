@@ -1,22 +1,22 @@
 
-Once upon a time, in a small village nestled in the mountains, there lived a young girl named Lina. Lina was an adventurous soul who loved exploring the wild forests around her home. Every day she'd spend hours wandering through the trees and admiring the beauty of nature.
+Once upon a time, in a far away kingdom there lived a young princess named Aurora. She was known for her beauty and kindness, and everyone in the kingdom loved her dearly. Despite being the daughter of a powerful king, Aurora had a gentle soul and always showed compassion to those around her. 
 
-One day, while out exploring, Lina stumbled upon an old hut deep in the forest. The hut looked abandoned but when Lina peered through one of its windows she saw something that made her heart beat faster: inside was the most beautiful creature she had ever seen! It had brilliant emerald eyes and shimmering golden fur. 
+One day, the king and queen decided to throw a grand banquet to celebrate their daughter's birthday. The entire kingdom was invited, but there were two special guests who had been invited – two fairies from the magical realm beyond the castle walls. 
 
-Lina knew at once that this must be some kind of magical beast, so she bravely opened the door and stepped inside. As soon as she did, the creature spoke to her in a gentle voice: "Welcome child," it said, "I am a phoenix, sent by your grandparents from their realm beyond the stars." 
+The first fairy was Flora, an old wise woman with magical powers that could make plants grow with just one touch of her staff. The second fairy was Fauna, a mischievous sprite who delighted in causing trouble among mortals. Despite their differences, they both shared one thing - they were both devoted to Aurora and wanted nothing more than to make her happy on her special day. 
 
-The phoenix explained that it was here to help her on a journey to find courage and strength within herself - something that would help her throughout life. A little scared but very excited, Lina agreed to take on this quest and began to prepare for her adventure. 
+When the feast began, all eyes were on Aurora as she entered the room with grace and poise befitting a princess. All of the guests marveled at her beauty and wished for her happiness on this day of celebration. However, it soon became apparent that something was wrong - Aurora did not seem happy at all! 
 
-She gathered supplies from around town and said goodbye to all her friends. Finally, with the phoenix leading the way they set off into unknown lands full of danger and mystery. Along their journey they encountered strange creatures and mysterious places. They faced many challenges but with each one they grew stronger together until eventually they reached their destination: a secret temple hidden high atop an ancient mountain peak. 
+The King asked what was wrong and Aurora explained that she wanted nothing more than true love but had yet to find it in this kingdom or any other. As she said these words, Flora stepped forward and presented Aurora with an enchanted rosebush that would never lose its petals nor fade in color until true love found her. With tears of joy streaming down their faces, everyone in attendance thanked Flora for such a beautiful gift as they watched Aurora take hold of the rosebush with tender care. 
 
-Inside this temple was an enchanted fountain where Lina could finally gain true courage and strength from within herself - something that would stay with her no matter what happened in life. After taking some time to reflect on all that she had experienced during her journey, Lina thanked the phoenix for its guidance before returning home with newfound confidence in herself and hope for what lay ahead.. 
+Fauna then stepped forward with a mischievous glint in his eyes as he handed Aurora an old book filled with stories about brave knights from distant lands on daring adventures to save damsels in distress - adventures exactly like hers! 
+Aurora opened up the book with curiosity as Fauna whispered into her ear “Your adventure awaits you…” before magically disappearing without another word spoken between them. 
 
+With newfound courage ignited by Fauna's words ringing through her mind, Aurora vowed to leave home and find true love no matter what challenges lay ahead along the way - all while holding onto the enchanted rosebush given by Flora as evidence that true love will eventually come whenever it is meant to be found.  
 
 Characters and Roles: 
 
-<table> 
-    <tr> 
-        <th>Character</th> 
-        <th>Role</th>  
-    </tr>  
-    <tr>    	<td>Lina</td>    	<td>Main character</td>   </tr>   <tr>    	<td>Phoenix</td>    	<td>Guides Lina on her journey</td></tr></table>.
+ <table>
+<tr> <th>Character</th> <th>Role</th></tr>
+<tr><td>Aurora</td><td>Young princess looking for true love.</td></tr>  
+<tr><td>Flora</td><td>Old wise woman with magical powers.</td></tr>  										    <tr><td>Fauna</td><td>Mischievous sprite.</td></tr>  	    <tr><td>King & Queen </td><td>Parents of Princess Aurora.</td></tr>   </table
